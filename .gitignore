@@ -1,0 +1,15 @@
+# Root README (kept local, not pushed)
+/README.md
+
+# Generated files
+contacts.txt
+hello.txt
+names.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
